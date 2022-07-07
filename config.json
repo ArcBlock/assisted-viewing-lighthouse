@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "name": "server-launcher",
+      "url": "https://launcher.arcblock.io/"
+    },
+    {
+      "name": "blocklet-launcher",
+      "url": "https://install.arcblock.io/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+.main-table {
+  margin-top: 30px;
+}
+
+.main-table td {
+  padding: 4px 8px;
+}
+
+.main-table thead {
+  font-weight: bold;
+}
+
+.fake-view {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}

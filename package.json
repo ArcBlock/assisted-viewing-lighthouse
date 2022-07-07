@@ -1,0 +1,20 @@
+{
+  "name": "launcher-lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "lighthouse": "^9.6.2"
+  },
+  "devDependencies": {
+    "joi": "^17.6.0",
+    "@arcblock/validator": "^1.17.0"
+  }
+}
